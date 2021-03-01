@@ -1,0 +1,10 @@
+{
+  "name": "chrome-storage-promise",
+  "description": "Promise-based variants of Chrome storage functions.",
+  "license": "MIT",
+  "author": "blmage",
+  "version": "1.0.0",
+  "homepage": "https://github.com/blmage/chrome-storage-promise",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts"
+}
